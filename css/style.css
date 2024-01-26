@@ -24537,6 +24537,8 @@ html.tablet .ui-to-top {
 
 .rd-navbar-brand img {
 	margin: 0;
+	width: 100%;
+	border-radius: 75px;
 }
 
 .rd-navbar-search {
@@ -25007,9 +25009,8 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-navbar-brand img {
-	max-width: 125px;
-	max-height: 125px;
-	border-radius: 100px;
+	max-width: 200px;
+	max-height: 200px;
 }
 
 .rd-navbar-static .rd-navbar-main-element {
@@ -25223,6 +25224,7 @@ html.tablet .ui-to-top {
 .rd-navbar-fixed .rd-navbar-brand img {
 	max-width: 160px;
 	max-height: 58px;
+	
 }
 
 .rd-navbar-fixed .rd-navbar-panel {
